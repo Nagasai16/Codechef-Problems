@@ -1,2 +1,2 @@
-# Codechef-Problems
+# Codechef-Problems-solving
 Problem solving 
