@@ -5,7 +5,9 @@ In Java, you can declare multiple variables of the same data type in a single st
 ### Syntax:
 
 dataType variable1, variable2, variable3;
+
 You can also assign values while declaring multiple variables:
+
 dataType variable1 = value1, variable2 = value2, variable3 = value3;
 
 
