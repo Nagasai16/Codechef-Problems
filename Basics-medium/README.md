@@ -16,10 +16,10 @@ Case sensitivity: The contains() method is case-sensitive, meaning "Java" and "j
 **Examples:**
 class Codechef {
     public static void main(String[] args) {
-        // Step 1: Initialize a string
+        Step 1: Initialize a string
         String text = "Hello, Java programmer!";
 
-        // Step 2: Use the contains() method to check for specific substrings
+        Step 2: Use the contains() method to check for specific substrings
         boolean containsJava = text.contains("Java");            // Returns true
         boolean containsJAVA = text.contains("JAVA");            // Returns false (case-sensitive)
         boolean containsEmptyString = text.contains("");         // Returns true (empty string is always contained)
