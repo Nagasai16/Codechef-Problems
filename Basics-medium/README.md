@@ -14,6 +14,7 @@ It returns false if the subString is not found.
 Case sensitivity: The contains() method is case-sensitive, meaning "Java" and "java" are treated as different.
 
 **Examples:**
+
 class Codechef {
     public static void main(String[] args) {
         Step 1: Initialize a string
