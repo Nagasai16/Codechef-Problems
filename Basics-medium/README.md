@@ -24,7 +24,7 @@ class Codechef {
         boolean containsJAVA = text.contains("JAVA");            // Returns false (case-sensitive)
         boolean containsEmptyString = text.contains("");         // Returns true (empty string is always contained)
 
-        // Step 3: Print the results
+        Step 3: Print the results
         System.out.println("Contains 'Java': " + containsJava);
         System.out.println("Contains 'JAVA': " + containsJAVA);
         System.out.println("Contains empty string: " + containsEmptyString);
